@@ -1,0 +1,14 @@
+[
+  "tests/test_comanda.py::test_adicionar_item_invalido_levanta_value_error",
+  "tests/test_comanda.py::test_adicionar_item_valido",
+  "tests/test_comanda.py::test_comandas_tem_estados_independentes",
+  "tests/test_comanda.py::test_desconto_aplica_10_por_cento_a_partir_de_30",
+  "tests/test_comanda.py::test_desconto_zero_abaixo_de_30",
+  "tests/test_comanda.py::test_fechar_com_desconto",
+  "tests/test_comanda.py::test_fechar_sem_desconto",
+  "tests/test_comanda.py::test_item_invalido_nao_entra_na_comanda",
+  "tests/test_comanda.py::test_itens_validos_comanda_vazia",
+  "tests/test_comanda.py::test_itens_validos_filtra_itens_fora_do_catalogo",
+  "tests/test_comanda.py::test_subtotal_comanda_vazia_e_zero",
+  "tests/test_comanda.py::test_subtotal_soma_precos_dos_itens_validos"
+]
